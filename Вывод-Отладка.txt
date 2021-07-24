@@ -1,0 +1,9 @@
+﻿C:\Users\Nast\source\repos\Test11\Test11.py:833: DeprecationWarning: Call to deprecated function get_sheet_by_name (Use wb[sheetname]).
+  b1 = book.get_sheet_by_name("answers")
+2
+3
+4
+2
+['Возраст', 'Работа', 'Дети', 'Семейное_положение', 'Первое_высшее_образование']
+Поток 'MainThread' (0x1) завершился с кодом 0 (0x0).
+Программа "python.exe" завершилась с кодом 0 (0x0).
